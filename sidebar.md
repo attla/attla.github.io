@@ -1,0 +1,5 @@
+  - [Configurações](configuration.md)
+  - [Rotas e URLs amigáveis](routes.md)
+  - [Blade template](blade.md)
+  - [Banco de dados](database.md)
+  - [Helpers](helpers.md)
